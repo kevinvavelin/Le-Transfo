@@ -3,7 +3,7 @@ Application officiel Le Transfo. Ce projet évoluera suivant les ateliers Swift 
 
 # A quoi sert cette application ?
 
-Cette application a pour but d'être sur l'App Store. Elle evoluera tout au long des sessions d'atelier Swift afin d'apprendre aux participants à programmer en Swift et crée une application basique pouvant terminer sur le store d'Apple.
+Cette application a pour but d'être sur l'App Store. Elle evoluera tout au long des sessions d'atelier Swift afin d'apprendre aux participants à programmer en Swift et créer une application basique pouvant terminer sur le store d'Apple.
 
 # Pourquoi ?
 
